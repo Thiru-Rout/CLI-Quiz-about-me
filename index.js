@@ -7,6 +7,7 @@ function welcome() {
   console.log("--------")
   console.log("Welcome! " + userName)
   console.log("--------")
+  console.log("--------")
 }
 welcome();
 
